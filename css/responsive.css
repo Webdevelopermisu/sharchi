@@ -1,0 +1,103 @@
+
+@media (max-width: 700px){
+.container .main-1 .logo img {
+    width: 350px;
+    margin-top: 0rem;
+    padding-left: 0rem;
+}
+.container .main-1 .logo {
+    font-size: 100px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    z-index: 2;
+}
+.main-1 .text h1{
+    width: 80%;
+    float: right;
+    font-weight: 400;
+    padding-top: 0px;
+    line-height: 40px;
+    font-size: 39px;
+}
+.main-1 .text p {
+    width: 53%;
+    float: right;
+    padding-top: 7px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.nav-bar nav ul {
+    width: 400px;
+    text-align: left;
+    padding: 0px 2rem;
+    transition: 1s ease;
+}
+.nav-bar {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    z-index: 2;
+}
+.nav-bar nav ul {
+    width: 400px;
+    text-align: left;
+    padding: 0px 2rem;
+    transition: 1s ease;
+}
+.nav-bar nav ul {
+    width: 400px;
+    text-align: left;
+    padding: 0px 2rem;
+    transition: 1s ease;
+}
+.nav-bar nav ul {
+    width: 400px;
+    text-align: left;
+    padding: 0px 2rem;
+    transition: 1s ease;
+}
+.main-2{
+    grid-template-columns: repeat(1,1fr);
+    height: auto;
+    top: -460px;
+}
+.main-2 .card2{
+    margin: 3rem 9rem;
+}
+.main-2 .card3{
+    margin: 3rem 9rem;
+}
+.main-2 .card a i::before {
+    position: absolute;
+    bottom: 67.5rem;
+}
+footer .main-3{
+    grid-template-columns: repeat(1,1fr);
+    position: absolute;
+    bottom: -37rem;
+    left: 20%;
+}
+.main-3 .social {
+    padding-top: 4rem;
+    margin-left: 5rem;
+    position: relative;
+}
+
+footer .main-3 .logo-footer span{
+    width: 500px;
+    height: 2px;
+    left: -20px;
+}
+footer .copy{
+    width: 100%;
+    height: 100%;
+    color: #000000;
+    text-align: center;
+    position: absolute;
+    bottom: 20rem;
+    left: 0;
+
+}
+
+}
